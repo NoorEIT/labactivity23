@@ -1,3 +1,3 @@
-Hi I'm new to VC
-
-This is John, I've also done some changes, Cheers John
+This is our group project, Noor and folks
+ 
+to Noor and folks: please consider more about style and change the font. 
